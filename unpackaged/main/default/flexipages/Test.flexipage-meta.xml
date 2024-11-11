@@ -19,6 +19,12 @@
                 <identifier>industries_service_excellence_actionLauncher</identifier>
             </componentInstance>
         </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentName>runtime_industries_publicsector:assessmentsTabContainer</componentName>
+                <identifier>runtime_industries_publicsector_assessmentsTabContainer</identifier>
+            </componentInstance>
+        </itemInstances>
         <name>main</name>
         <type>Region</type>
     </flexiPageRegions>
